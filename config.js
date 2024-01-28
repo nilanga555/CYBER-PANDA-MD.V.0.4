@@ -23,9 +23,9 @@ global.prefa = ["."];                                    //Default prefix here. 
 //
 global.Owner = ["+94742132265", "+94742132265"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.OwnerNumber = ["+94742132265", "+94742132265"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+9474213226"];
-global.OwnerName = "KING MD BOT";
-global.BotName = "KING MD";
+global.ownertag = ["+94742132265"];
+global.OwnerName = "NILANGA MD BOT";
+global.BotName = "NILANGA MD";
 global.packname = "🦋 KING MD 🦋";                             //Do not change.
 global.author = "KUSHAN";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
@@ -46,7 +46,7 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "king md";
+global.lolhuman = "NILANGA MD";
 
 
 //
